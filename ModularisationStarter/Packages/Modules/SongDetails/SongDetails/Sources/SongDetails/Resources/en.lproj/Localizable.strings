@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Emre Havan on 06.03.24.
+  
+*/
+
+// Song Details
+"ms_song_details_lyrics" = "Lyrics";
+"ms_song_details_artist_info" = "Artist Info";
+"ms_song_details_go_to_artist_cta" = "Go to Artist Page";

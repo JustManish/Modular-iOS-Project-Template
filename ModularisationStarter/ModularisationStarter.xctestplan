@@ -1,0 +1,49 @@
+{
+  "configurations" : [
+    {
+      "id" : "E5C19BA3-C9FD-408A-B595-43D2E597799F",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:ModularisationStarter.xcodeproj",
+      "identifier" : "FBA9D05A2B7B936A00FDF616",
+      "name" : "ModularisationStarter"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Packages\/DependencyContainer",
+        "identifier" : "DependencyContainerTests",
+        "name" : "DependencyContainerTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Packages\/Modules\/ArtistDetail\/ArtistDetail",
+        "identifier" : "ArtistDetailTests",
+        "name" : "ArtistDetailTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Packages\/Modules\/SongDetails\/SongDetails",
+        "identifier" : "SongDetailsTests",
+        "name" : "SongDetailsTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Packages\/Modules\/Home\/Home",
+        "identifier" : "HomeTests",
+        "name" : "HomeTests"
+      }
+    }
+  ],
+  "version" : 1
+}

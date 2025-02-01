@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Emre Havan on 06.03.24.
+  
+*/
+
+// Şarkı Detayları
+"ms_song_details_lyrics" = "Şarkı Sözleri";
+"ms_song_details_artist_info" = "Sanatçı Bilgisi";
+"ms_song_details_go_to_artist_cta" = "Sanatçı Sayfasına Git";

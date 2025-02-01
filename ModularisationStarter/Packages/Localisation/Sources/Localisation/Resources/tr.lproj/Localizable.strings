@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Emre Havan on 06.03.24.
+  
+*/
+
+// TabBar
+"ms_tabbar_home_title" = "Ana Sayfa";
+
+// Home
+"ms_home_title" = "Şarkılar";
+
+// Sanatçı Detayları
+"ms_artist_details_birth_date" = "Doğum Tarihi";
+"ms_artist_details_songs_header" = "Şarkılar";
